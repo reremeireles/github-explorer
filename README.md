@@ -17,7 +17,7 @@ Acesse o deploy do projeto: https://github-explorer-reremeireles.vercel.app/
 
 ## 📚 Conceitos básicos do React
 
-### Componetização
+### Componentização
 É uma maneira de encapsular código em partes independentes e reutilizáveis dentro da aplicação. Os componentes possuem estrutura, funcionalidades e estilizações própria.
 
 ### Propriedades
